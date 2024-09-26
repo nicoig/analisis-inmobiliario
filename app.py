@@ -108,7 +108,7 @@ Puedes ajustar los parámetros y ver los resultados en tiempo real.
 """)
 
 # Mostrar la imagen centrada
-st.image("img/inmobiliario.jpg", width=350, caption="Análisis Hipotecario")
+st.image("img/inmobiliario.jpg", width=350)
 
 # Parámetros de entrada en 3 columnas y 2 filas
 col1, col2, col3 = st.columns(3)
